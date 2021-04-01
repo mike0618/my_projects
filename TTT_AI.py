@@ -107,7 +107,7 @@ def ai(grid, level):
     elif level > 1 and win_avoid(grid, 1):
         return grid
     elif level > 1 and win_avoid(grid, -1):
-        grid = win_avoid(grid, -1)
+        return grid
     elif win_avoid(grid, 0):
         return grid
     return grid
