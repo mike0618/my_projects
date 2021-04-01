@@ -1,2 +1,3 @@
 # my_projects
-My portfolio projects
+Here are my study and portfolio project
+Created by my own
